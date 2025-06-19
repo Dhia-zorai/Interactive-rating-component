@@ -54,7 +54,7 @@ Through this project, I have learned:
 
 ```
 // Accessibility
-Here’s what you learned about accessibility from this project:
+Here’s what I learned about accessibility from this project:
 
 - Use aria-labels and roles to make interactive elements understandable for screen readers.
 - Provide descriptive alt text for all images.
