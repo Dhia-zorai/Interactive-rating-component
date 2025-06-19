@@ -52,6 +52,19 @@ Through this project, I have learned:
 
 ```
 
+```
+// Accessibility
+Here’s what you learned about accessibility from this project:
+
+- Use aria-labels and roles to make interactive elements understandable for screen readers.
+- Provide descriptive alt text for all images.
+- Add a skip link for keyboard users to jump to main content.
+- Use visible focus styles so keyboard users can see which element is focused.
+- Use aria-live regions to announce dynamic content changes.
+- Ensure color contrast is sufficient for readability.
+
+```
+
 ### Useful resources
 
 - [NekoCalc pixel to rem converter](https://nekocalc.com/px-to-rem-converter) - This is a simple and time saving convertion tool.
