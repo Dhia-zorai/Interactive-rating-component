@@ -6,6 +6,7 @@
   --Grey-500: hsl(217, 12%, 63%);
   --Grey-900: hsl(213, 19%, 18%);
   --Grey-950: hsl(216, 12%, 8%);
+  --Grey-9: rgba(37, 45, 55, 0.7);
   --Font-size-paragraph: 15px;
 }
 
@@ -21,7 +22,7 @@ body {
 }
 
 main {
-  background-color: var(--Grey-900);
+  background: var(--Grey-9);
   padding: 25px;
   border-radius: 15px;
   width: 80dvw;
@@ -179,7 +180,7 @@ button:focus {
   outline-offset: 2px;
 }
 
-footer{
+footer {
   margin-top: 5%;
 }
 
