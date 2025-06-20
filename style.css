@@ -179,6 +179,10 @@ button:focus {
   outline-offset: 2px;
 }
 
+footer{
+  margin-top: 5%;
+}
+
 @media (min-width: 768px) {
   main {
     max-width: 350px;
